@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahmad Rafiq  
 
 🎓 Computer Science Graduate  
-🔐 Authorized Pentester | CTF Player  
-💻 Full Stack Developer | C++ Developer  
+🔐 CTF Player  
+💻 Full Stack Developer  
 🌱 Always building, always learning  
 
 ---
