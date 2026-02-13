@@ -2,7 +2,7 @@
 
 🎓 Computer Science Graduate  
 🔐 CTF Player  
-💻 Full Stack Developer  
+💻 Full Stack Developer | C++ Developer
 🌱 Always building, always learning  
 
 ---
@@ -19,54 +19,41 @@ I’m a computer science graduate passionate about building **production-grade a
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ **Tech Stack & Skills**
 
-### 🧠 Languages
-- C++
-- JavaScript
-- Go
-- Python
-- Dart
+### **Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### 🌐 Web & Backend
-- MERN Stack (MongoDB, Express, React, Node.js)
-- .NET
-- REST APIs
-- Firebase (Firestore, Auth)
+### **Frameworks & Tools**
+![.NET](https://img.shields.io/badge/-DotNET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 📱 Mobile
-- Flutter (with Firebase integration)
-
-### 🔐 Security & Systems
-- Penetration Testing
-- Networking Fundamentals
-- VMware (Virtualization)
-- Linux Environments
+### **Others**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🏗️ **My Projects**
 
-### 🔹 Adaptive Merkle Forest (AMF) – Go
-Implementation of a dynamic shard-based Merkle Forest with:
-- Dynamic shard splitting & merging
-- Load-based balancing
-- Optimized verification
+Here are some of my recent projects and repositories:
+- **[LeafSpec (Python, Flask, Pytorch)](https://github.com/AhmadRafiq90/Fyp_repo)**  
+  A mobile that classifies leaf images to their respective plant species.
+  
+- **[Skin Lesion Detection and Analysis Using Image Processing (C++)](https://github.com/AhmadRafiq90/Connected-Components-Labelling)**  
+  A project focused on image processing and machine learning techniques for skin lesion detection.
 
-> Focus: Distributed systems & scalable data integrity structures
-
----
-
-### 🔹 Flutter Product Catalog App
-A real-time product catalog system with:
-- Firebase Firestore integration
-- Supplier interface for adding products
-- Real-time updates
-- Structured backend logic
-
-> Focus: Mobile + Backend integration
-
----
+- **[Neurons as Threads and Propogation through forked Processes (C++)](https://github.com/AhmadRafiq90/Neurons-Simulator)**  
+  This project implements a basic neural network using process-based parallelism, forward and backward pass is handled by forking new processes.
+  
+- **[HTML Parser using C++ (C++)](https://github.com/AhmadRafiq90/Html-Parser)**  
+  This project processes the HTML tags using Stack Data structure and the tags implemented are a little complex than normal HTML function Tags each having a unique and interesting functionality.
 
 ---
 
@@ -76,7 +63,6 @@ A real-time product catalog system with:
 - System Design
 - Security Research
 - Competitive Programming
-- High-performance C++
 
 ---
 
@@ -91,7 +77,7 @@ A real-time product catalog system with:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/ahmadRafiq90  
+- GitHub: https://github.com/AhmadRafiq90  
 
 ---
 
